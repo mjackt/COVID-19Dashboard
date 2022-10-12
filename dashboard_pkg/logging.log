@@ -1,0 +1,184 @@
+2021-12-06 15:18:33,488 - _internal - _log - 225 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-06 15:20:16,815 - _internal - _log - 225 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-06 15:20:21,596 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:20:21] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:20:21,699 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:20:21] "GET /static/images/image.jpg HTTP/1.1" 200 -
+2021-12-06 15:20:21,726 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:20:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-12-06 15:21:21,754 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:21:21] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:21:21,836 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:21:21] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-06 15:22:21,870 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:22:21] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:22:21,991 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:22:21] "GET /static/images/image.jpg HTTP/1.1" 200 -
+2021-12-06 15:23:22,010 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:23:22] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:23:22,076 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:23:22] "GET /static/images/image.jpg HTTP/1.1" 200 -
+2021-12-06 15:24:22,111 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:24:22] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:24:22,183 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:24:22] "GET /static/images/image.jpg HTTP/1.1" 200 -
+2021-12-06 15:25:22,210 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:25:22] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:25:22,272 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:25:22] "GET /static/images/image.jpg HTTP/1.1" 200 -
+2021-12-06 15:26:22,292 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:26:22] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:26:22,362 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:26:22] "GET /static/images/image.jpg HTTP/1.1" 200 -
+2021-12-06 15:27:22,385 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:27:22] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:27:22,461 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:27:22] "GET /static/images/image.jpg HTTP/1.1" 200 -
+2021-12-06 15:28:22,483 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:28:22] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:28:22,781 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:28:22] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-06 15:29:22,799 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:29:22] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:29:23,096 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:29:23] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-06 15:30:23,122 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:30:23] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:30:23,461 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:30:23] "GET /static/images/image.jpg HTTP/1.1" 200 -
+2021-12-06 15:31:23,491 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:31:23] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:31:23,829 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:31:23] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-06 15:32:23,848 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:32:23] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:32:24,176 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:32:24] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-06 15:33:24,192 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:33:24] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:33:24,519 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:33:24] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-06 15:34:24,533 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:34:24] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:34:24,877 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:34:24] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-06 15:35:24,905 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:35:24] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:35:25,232 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:35:25] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-06 15:36:25,260 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:36:25] "GET /index HTTP/1.1" 200 -
+2021-12-06 15:36:25,586 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2021 15:36:25] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:12:20,205 - _internal - _log - 225 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-08 11:12:24,996 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:12:24] "GET /index HTTP/1.1" 200 -
+2021-12-08 11:12:25,182 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:12:25] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:13:25,208 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:13:25] "GET /index HTTP/1.1" 200 -
+2021-12-08 11:13:25,264 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:13:25] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:13:33,625 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:13:33] "GET /index?update=11%3A14&two=ts&covid-data=covid-data&news=news HTTP/1.1" 200 -
+2021-12-08 11:13:33,669 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:13:33] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:13:39,682 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:13:39] "GET /index?update=11%3A15&two=ewa&repeat=repeat HTTP/1.1" 200 -
+2021-12-08 11:13:39,718 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:13:39] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:13:54,654 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:13:54] "GET /index?update_item=ewa HTTP/1.1" 200 -
+2021-12-08 11:13:54,686 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:13:54] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:14:08,443 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:14:08] "GET /index?update=11%3A15&two=fds&repeat=repeat&covid-data=covid-data&news=news HTTP/1.1" 200 -
+2021-12-08 11:14:08,481 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:14:08] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:14:16,006 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:14:16] "GET /index?notif=Covid+Plan+B%3A+The+Christmas+rule+changes+that+could+be+on+the+way+due+to+Omicron+-+Nottinghamshire+Live HTTP/1.1" 200 -
+2021-12-08 11:14:16,041 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:14:16] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:14:24,314 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:14:24] "GET /index?update=11%3A16&two=aaas&covid-data=covid-data&news=news HTTP/1.1" 200 -
+2021-12-08 11:14:24,350 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:14:24] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:15:24,763 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:15:24] "GET /index HTTP/1.1" 200 -
+2021-12-08 11:15:25,149 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:15:25] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:16:26,136 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:16:26] "GET /index HTTP/1.1" 200 -
+2021-12-08 11:16:26,206 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:16:26] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:17:26,231 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:17:26] "GET /index HTTP/1.1" 200 -
+2021-12-08 11:17:26,325 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:17:26] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-08 11:17:33,739 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:17:33] "GET /index?update_item=fds HTTP/1.1" 200 -
+2021-12-08 11:17:33,778 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [08/Dec/2021 11:17:33] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-18 16:50:04,934 - _internal - _log - 225 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-18 16:50:10,847 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [18/Dec/2021 16:50:10] "GET /index HTTP/1.1" 200 -
+2021-12-18 16:50:10,967 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [18/Dec/2021 16:50:10] "GET /static/images/image.jpg HTTP/1.1" 200 -
+2021-12-18 16:50:11,356 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [18/Dec/2021 16:50:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-12-18 16:50:25,470 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [18/Dec/2021 16:50:25] "GET /index?notif=Omicron%3A+Boris+Johnson’s+cabinet+to+be+briefed+on+latest+Covid+data+-+The+Independent HTTP/1.1" 200 -
+2021-12-18 16:50:25,512 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [18/Dec/2021 16:50:25] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-18 16:51:07,264 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [18/Dec/2021 16:51:07] "GET /index?update=16%3A53&two=ngdggs&news=news HTTP/1.1" 200 -
+2021-12-18 16:51:07,309 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [18/Dec/2021 16:51:07] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-18 16:52:07,341 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [18/Dec/2021 16:52:07] "GET /index HTTP/1.1" 200 -
+2021-12-18 16:52:07,429 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [18/Dec/2021 16:52:07] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2021-12-18 16:53:02,756 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [18/Dec/2021 16:53:02] "GET /index?update_item=ngdggs HTTP/1.1" 200 -
+2021-12-18 16:53:02,796 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [18/Dec/2021 16:53:02] "[36mGET /static/images/image.jpg HTTP/1.1[0m" 304 -
+2022-01-21 19:10:38,147 - _internal - _log - 225 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-01-21 19:10:44,731 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2022 19:10:44] "GET /index HTTP/1.1" 200 -
+2022-01-21 19:10:44,850 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2022 19:10:44] "GET /static/images/image.jpg HTTP/1.1" 200 -
+2022-01-21 19:10:45,010 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2022 19:10:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-10-12 14:41:21,524 - main - <module> - 46 - root - ERROR - 'description'
+2022-10-12 14:41:21,532 - _internal - _log - 225 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-10-12 14:41:41,227 - app - log_exception - 1457 - main - ERROR - Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\mjack\OneDrive\Documents\Uni\Year 1\Covid CA\dashboard_pkg\main.py", line 182, in hello
+    news_articles=news_articles,
+NameError: name 'news_articles' is not defined
+2022-10-12 14:41:41,232 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2022 14:41:41] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2022-10-12 14:41:41,414 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2022 14:41:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-10-12 14:42:08,653 - app - log_exception - 1457 - main - ERROR - Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\mjack\OneDrive\Documents\Uni\Year 1\Covid CA\dashboard_pkg\main.py", line 182, in hello
+    news_articles=news_articles,
+NameError: name 'news_articles' is not defined
+2022-10-12 14:42:08,654 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2022 14:42:08] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2022-10-12 14:43:18,870 - main - <module> - 46 - root - ERROR - 'description'
+2022-10-12 14:43:18,926 - _internal - _log - 225 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-10-12 14:43:33,279 - app - log_exception - 1457 - main - ERROR - Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\mjack\OneDrive\Documents\Uni\Year 1\Covid CA\dashboard_pkg\main.py", line 182, in hello
+    news_articles=news_articles,
+NameError: name 'news_articles' is not defined
+2022-10-12 14:43:33,280 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2022 14:43:33] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2022-10-12 14:43:34,109 - app - log_exception - 1457 - main - ERROR - Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\mjack\OneDrive\Documents\Uni\Year 1\Covid CA\dashboard_pkg\main.py", line 182, in hello
+    news_articles=news_articles,
+NameError: name 'news_articles' is not defined
+2022-10-12 14:43:34,110 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2022 14:43:34] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2022-10-12 14:43:34,303 - app - log_exception - 1457 - main - ERROR - Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\mjack\OneDrive\Documents\Uni\Year 1\Covid CA\dashboard_pkg\main.py", line 182, in hello
+    news_articles=news_articles,
+NameError: name 'news_articles' is not defined
+2022-10-12 14:43:34,303 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2022 14:43:34] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2022-10-12 14:43:34,485 - app - log_exception - 1457 - main - ERROR - Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\mjack\OneDrive\Documents\Uni\Year 1\Covid CA\dashboard_pkg\main.py", line 182, in hello
+    news_articles=news_articles,
+NameError: name 'news_articles' is not defined
+2022-10-12 14:43:34,486 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2022 14:43:34] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2022-10-12 14:44:16,335 - app - log_exception - 1457 - main - ERROR - Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mjack\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\mjack\OneDrive\Documents\Uni\Year 1\Covid CA\dashboard_pkg\main.py", line 182, in hello
+    news_articles=news_articles,
+NameError: name 'news_articles' is not defined
+2022-10-12 14:44:16,336 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2022 14:44:16] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2022-10-12 14:44:16,378 - _internal - _log - 225 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2022 14:44:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-10-12 14:47:19,123 - main - <module> - 46 - root - ERROR - 'description'
+2022-10-12 14:47:19,142 - _internal - _log - 225 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
